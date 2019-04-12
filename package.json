@@ -1,7 +1,10 @@
 {
   "name": "vidly",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend of vidly application.",
+  "engines": {
+    "node": "8.11.3"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
